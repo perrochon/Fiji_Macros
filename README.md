@@ -16,4 +16,6 @@ The tutorial will also not teach any coding skills, and it's very likely you wil
 
 
 
+
+---
 If you feel this is worth of an acknowledgement in your derived work, point to this github project.
