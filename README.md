@@ -1,5 +1,5 @@
 # Fiji_Macros
-ImageJ/Fiji Macros for various image analysis functions
+ImageJ/Fiji Macros for various image analysis functions. If you feel this is worth of an acknowledgement in your derived work, point to this github project.
 
 ## Coloc_Macro.jim
 
@@ -9,7 +9,7 @@ Often, only regions of interest (ROI, in particular only cells) are used for the
 
 It is rumored that this ROI based analysis is so much work that some researchers use Colocalization Analysis on the whole picture. While that may be acceptable in some cases, it may not be in others.
 
-This tutorial focuses on how to get that automation done, with some consideration of the scientific environment and keeping a detailed log of what actually has been done so results can be reproduced more easily. 
+This tutorial and macro focuses on how to get that automation done, with some consideration of the scientific environment and keeping a detailed log of what actually has been done so results can be reproduced more easily. 
 
 This tutorial will help with neither the biology nor the math. The macro will not generate the ROIs. Automating ROIs is outside the scope of this tutorial.  The tutorial will not teach basic FIJI/ImageJ manual tasks. 
 
