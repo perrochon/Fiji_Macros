@@ -22,6 +22,8 @@ The tutorial will also not teach any coding skills, and it's very likely you wil
 ## Measure_Macro.jim
 This automates Analyze-Measure (Ctrl-M) across a directory with images and corresponding ROI sets and creates a single CSV with the area (and also mean gray value for one channel) for each ROI. It does not generate the ROIs.
 
+It also generates a lot of statistical data automatically. You can use that directly, or compare it to whatever results your data processing softare generates. Ideally, it should be the same results e.g. for StdDev.
+
 
 ---
 If you feel this is worth of an acknowledgement in your derived work, point to this github project.
