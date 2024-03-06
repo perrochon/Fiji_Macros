@@ -1,6 +1,5 @@
 # Fiji_Macros
-ImageJ/Fiji Macros for various image analysis functions. If you feel this is worth of an acknowledgement in your derived work, point to this github project.
-
+ImageJ/Fiji Macros for various image analysis functions. 
 ## Coloc_Macro.jim
 
 Colocalization analysis is a technique used to determine the extent to which two different molecules or structures are localized in the same region of a cell. ImageJ is a popular image processing software that can be used to perform colocalization analysis. JACoP is a plugin for ImageJ that provides a variety of tools for colocalization analysis.
@@ -14,3 +13,7 @@ This tutorial and macro focuses on how to get that automation done, with some co
 This tutorial will help with neither the biology nor the math. The macro will not generate the ROIs. Automating ROIs is outside the scope of this tutorial.  The tutorial will not teach basic FIJI/ImageJ manual tasks. 
 
 The tutorial will also not teach any coding skills, and it's very likely you will need to modify the macro. The key elements are there, but this is not a supported and finished product. The macro and tutorial will get you most of the way, though.
+
+
+
+If you feel this is worth of an acknowledgement in your derived work, point to this github project.
