@@ -6,6 +6,8 @@ This automates JACoP over a directory with images and corresponding ROI sets and
 
 Look at the [Tutorial PDF](https://github.com/perrochon/Fiji_Macros/raw/5759d88c5bdabb484606c4cd4e969d8b570e4c8a/ImageJ%20and%20JACoP%20Batch%20ROI%20Colocalization%20Analysis%20Macro%20Tutorial.pdf) for details.
 
+After writing this, I found out about the [JACoP BIOP version.](https://c4science.ch/w/bioimaging_and_optics_platform_biop/image-processing/imagej_tools/jacop_b/) That runs JACoP over all ROIs and comes with a script to do it over a directory. You may still want to apply some of this Macro to collect and process logs and results.
+
 Colocalization analysis is a technique used to determine the extent to which two different molecules or structures are localized in the same region of a cell. ImageJ is a popular image processing software that can be used to perform colocalization analysis. JACoP is a plugin for ImageJ that provides a variety of tools for colocalization analysis.
 
 Often, only regions of interest (ROI, in particular only cells) are used for the analysis, and doing the analysis for many ROI in many images is turning into a long list of manual steps, perfect for automation.
