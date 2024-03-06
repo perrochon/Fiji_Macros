@@ -20,7 +20,7 @@ The tutorial will also not teach any coding skills, and it's very likely you wil
 
 
 ## Measure_Macro.jim
-This automates Analyze-Measure (ctrl-M) across a directory with images and corresponding ROI sets and creates a single CSV with the area (and also mean gray value for one channel) for each ROI. It does not generate the ROIs.
+This automates Analyze-Measure (Ctrl-M) across a directory with images and corresponding ROI sets and creates a single CSV with the area (and also mean gray value for one channel) for each ROI. It does not generate the ROIs.
 
 
 ---
